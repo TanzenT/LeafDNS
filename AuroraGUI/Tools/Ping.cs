@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 
-namespace AuroraGUI.Tools
+namespace LeafDNS.Tools
 {
     static class Ping
     {

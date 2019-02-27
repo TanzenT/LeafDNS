@@ -11,7 +11,7 @@ using System.Windows;
 using Microsoft.Win32;
 using MojoUnity;
 
-namespace AuroraGUI.Tools
+namespace LeafDNS.Tools
 {
     static class MyTools
     {

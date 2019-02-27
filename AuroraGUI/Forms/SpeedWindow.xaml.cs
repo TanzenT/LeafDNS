@@ -5,10 +5,10 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Windows;
-using AuroraGUI.DnsSvr;
-using AuroraGUI.Tools;
+using LeafDNS.DnsSvr;
+using LeafDNS.Tools;
 
-namespace AuroraGUI
+namespace LeafDNS
 {
     /// <summary>
     /// SpeedWindow.xaml 的交互逻辑

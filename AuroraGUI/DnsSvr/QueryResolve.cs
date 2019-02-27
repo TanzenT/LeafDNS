@@ -4,15 +4,15 @@ using System.Net;
 using System.Threading.Tasks;
 using ARSoft.Tools.Net;
 using ARSoft.Tools.Net.Dns;
-using AuroraGUI.Tools;
+using LeafDNS.Tools;
 using MojoUnity;
-using static AuroraGUI.Tools.MyTools;
+using static LeafDNS.Tools.MyTools;
 
 // ReSharper disable CollectionNeverUpdated.Global
 #pragma warning disable 649
 #pragma warning disable 1998
 
-namespace AuroraGUI.DnsSvr
+namespace LeafDNS.DnsSvr
 {
     static class QueryResolve
     {

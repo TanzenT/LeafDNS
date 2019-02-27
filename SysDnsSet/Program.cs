@@ -7,9 +7,9 @@ namespace SysDnsSet
         private static void Main(string[] args)
         {
             if (args.Contains("reset"))
-                AuroraGUI.Tools.SysDnsSet.ResetDns();
+                LeafDNS.Tools.SysDnsSet.ResetDns();
             else if (args.Contains("set"))
-                AuroraGUI.Tools.SysDnsSet.SetDns(args[1], args[2]);
+                LeafDNS.Tools.SysDnsSet.SetDns(args[1], args[2]);
         }
     }
 }

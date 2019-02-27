@@ -8,13 +8,13 @@ using System.Net;
 using System.Security.Principal;
 using System.Windows;
 using System.Windows.Controls;
-using AuroraGUI.DnsSvr;
-using AuroraGUI.Tools;
+using LeafDNS.DnsSvr;
+using LeafDNS.Tools;
 using Microsoft.Win32;
 
 // ReSharper disable LocalizableElement
 
-namespace AuroraGUI
+namespace LeafDNS
 {
     /// <summary>
     /// SettingsWindow.xaml 的交互逻辑

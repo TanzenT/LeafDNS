@@ -2,9 +2,9 @@
 using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Interop;
-using AuroraGUI.Fx.NativeArgs;
+using LeafDNS.Fx.NativeArgs;
 
-namespace AuroraGUI.Fx
+namespace LeafDNS.Fx
 {
         public class WindowBlur
         {

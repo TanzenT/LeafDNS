@@ -2,7 +2,7 @@
 
 #pragma warning disable IDE0044
 
-namespace AuroraGUI.Tools
+namespace LeafDNS.Tools
 {
     static class SysDnsSet
     {

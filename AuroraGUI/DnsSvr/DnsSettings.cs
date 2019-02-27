@@ -5,7 +5,7 @@ using System.Net;
 using ARSoft.Tools.Net;
 using MojoUnity;
 
-namespace AuroraGUI.DnsSvr
+namespace LeafDNS.DnsSvr
 {
     class DnsSettings
     {

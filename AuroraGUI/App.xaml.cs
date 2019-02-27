@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Threading;
-using AuroraGUI.Tools;
+using LeafDNS.Tools;
 
-namespace AuroraGUI
+namespace LeafDNS
 {
     /// <summary>
     /// App.xaml 的交互逻辑

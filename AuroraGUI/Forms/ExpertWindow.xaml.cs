@@ -3,10 +3,10 @@ using System.IO;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Effects;
-using AuroraGUI.Fx;
+using LeafDNS.Fx;
 using Microsoft.Win32;
 
-namespace AuroraGUI
+namespace LeafDNS
 {
     /// <summary>
     /// ExpertWindow.xaml 的交互逻辑

@@ -2,7 +2,7 @@
 using System.IO;
 using System.Windows;
 
-namespace AuroraGUI
+namespace LeafDNS
 {
     /// <summary>
     /// AboutWindow.xaml 的交互逻辑

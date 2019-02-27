@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AuroraGUI.Properties
+namespace LeafDNS.Properties
 {
 
 

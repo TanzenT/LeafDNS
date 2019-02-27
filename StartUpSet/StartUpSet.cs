@@ -1,6 +1,6 @@
 ﻿using Microsoft.Win32;
 
-namespace AuroraGUI.Tools
+namespace LeafDNS.Tools
 {
     class StartUpSet
     {

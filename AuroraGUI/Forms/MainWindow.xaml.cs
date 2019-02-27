@@ -12,9 +12,9 @@ using System.Windows.Forms;
 using System.Windows.Media.Animation;
 using System.Windows.Threading;
 using ARSoft.Tools.Net.Dns;
-using AuroraGUI.DnsSvr;
-using AuroraGUI.Fx;
-using AuroraGUI.Tools;
+using LeafDNS.DnsSvr;
+using LeafDNS.Fx;
+using LeafDNS.Tools;
 using MaterialDesignThemes.Wpf;
 using WinFormMenuItem = System.Windows.Forms.MenuItem;
 using WinFormContextMenu = System.Windows.Forms.ContextMenu;
@@ -23,7 +23,7 @@ using MessageBox = System.Windows.MessageBox;
 
 // ReSharper disable NotAccessedField.Local
 
-namespace AuroraGUI
+namespace LeafDNS
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
